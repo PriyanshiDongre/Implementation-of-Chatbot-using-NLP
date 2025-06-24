@@ -33,7 +33,4 @@ The following features are planned for upcoming versions of the chatbot:
 
 ---
 
-## 🛠 Tech Stack
-
-- **Frontend**: *(optional, if you have one now or plan later)*
 
